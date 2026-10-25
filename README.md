@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/nzl404">
+  <a href="https://github.com/alveeria">
     <img src="assets/avatar.jpg" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 3px solid #F75C7E;" alt="Avatar" />
   </a>
 </p>
@@ -13,10 +13,10 @@
 
 <p align="center">
   <!-- Profile Views Fix using pure Markdown to prevent HTML parser errors -->
-  <img src="https://komarev.com/ghpvc/?username=nzl404&color=f75c7e&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alveeria&color=f75c7e&style=flat-square" alt="Profile Views" />
   &nbsp;
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/nzl404?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/alveeria?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 <div align="center">
@@ -137,8 +137,8 @@
 <h2 align="center"><img src="assets/stats.gif" width="30px"/> GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nzl404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" height="165em" alt="nzl404 Stats"/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nzl404&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" height="165em" alt="nzl404 Top Languages"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alveeria&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" height="165em" alt="alveeria Stats"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alveeria&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" height="165em" alt="alveeria Top Languages"/>
 </div>
 
 <br/>
